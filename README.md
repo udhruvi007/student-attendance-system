@@ -87,15 +87,6 @@ python attendance.py
 0. Exit
 ```
 
----
-
-## 🚀 Future Improvements
-
-- GUI Version using Tkinter
-- SQLite Database Integration
-- Export Attendance to CSV
-- Admin Login System
-- Search Student Feature
 
 ---
 
